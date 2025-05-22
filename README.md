@@ -8,7 +8,7 @@ education:
     "Bachelor's in Biology & Astronomy"
     "Google Professional Data Analytics Certificate"
     "Self-Taught Data Scientist"
-    ]
+  ]
 
 fields_of_interest:
   [ 
