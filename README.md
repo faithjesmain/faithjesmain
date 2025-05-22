@@ -1,3 +1,7 @@
+CONNECT WITH ME! 
+LinkedIn: Faith Jesmain
+Email: faithjesmain@gmail.com
+
 ```yaml
 name: Faith Jesmain
 located_in: Albany, New York
@@ -35,7 +39,7 @@ find_my_projects = [https://github.com/faithjesmain](https://github.com/faithjes
 reach_me = faithjesmain@gmail.com
 connect_with_me = [https://linkedin.com/in/faith jesmain]
 find_my_articles = [https://faithjesmain.substack.com/](https://faithjesmain.substack.com/)
-```
+
 languages_and_tools: 
   [
     "Python (Astropy, Pandas, NumPy, SciPy, Matplotlib)"
@@ -43,3 +47,4 @@ languages_and_tools:
     "MySQL"
     "Microsoft Office (Excel, PowerPoint, Word, SharePoint, Teams)"
   ]
+```
