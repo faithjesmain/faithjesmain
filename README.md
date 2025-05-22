@@ -1,7 +1,3 @@
-CONNECT WITH ME! 
-LinkedIn: Faith Jesmain
-Email: faithjesmain@gmail.com
-
 ```yaml
 name: Faith Jesmain
 located_in: Albany, New York
